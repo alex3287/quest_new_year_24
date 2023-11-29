@@ -27,3 +27,7 @@ footer {
     padding: 20px;
     background-color: dodgerblue;
 }
+
+.page_first {
+    text-decoration: none;
+}
